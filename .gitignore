@@ -1,0 +1,16 @@
+dist
+node_modules
+npm-debug.log
+.vscode/
+*/coverage
+.idea
+.DS_Store
+*.map
+/build/tmp/
+*/tmp/*
+/apps/*/coverage
+coverage
+.env
+
+# next config
+.next
