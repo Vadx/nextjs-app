@@ -2,11 +2,14 @@
 $primary:blue;
 $danger:red;
 $white:#fff;
-$raleway:"Raleway";
+$raleway: "Arial";
 $backgroundColor:#c00000;
+$fontSize: 14px;
 body{
     padding: 0;
     margin: 0;
+    font-family: $raleway;
+    font-size: $fontSize;
 }
 .container {
     display: flex;

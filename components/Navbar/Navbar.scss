@@ -1,0 +1,14 @@
+$menuColor: #fff;
+
+nav {
+  background-color: lightblue;
+  display: flex;
+  padding: 10px;
+  a {
+    margin: 5px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $menuColor;
+  }
+}
